@@ -1,7 +1,7 @@
 ---
 layout: post
-title: First post!
+title: Change Title!
 image: /img/hello_world.jpeg
 ---
 
-This is my first post, how exciting!
+Hello from Washington State!
