@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: High Cost of Healthcare and the American Business
 ---
 ## An Analysis of Health Expenditure and Health Insurance Costs
