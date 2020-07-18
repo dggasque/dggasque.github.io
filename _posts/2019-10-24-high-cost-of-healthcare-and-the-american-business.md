@@ -7,4 +7,4 @@ title: High Cost of Healthcare and the American Business
 
 [High Cost of Healthcare and the American Business](https://medium.com/@dorothygasque/high-cost-for-healthcare-and-the-american-business-133f071fd702)
 
-This medium article that analysis employer based insurance cost and overall healthcare expenditures uses Plotly to create interactive graphs. Chart Studio was used to embed the graphs into the medium article. 
+This Medium article that analyzes employer-based insurance costs and overall healthcare expenditures uses Plotly to create interactive graphs. Chart Studio was used to embed the graphs into the Medium article.
